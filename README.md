@@ -10,7 +10,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/SRojas28/Solar-cell-behaviour)
 ![Made from](https://img.shields.io/badge/From-Colombia-Yellow)
 
-This software computes real time graphs for temperature and photogenerated current equations related to solar cells using Tkinter and matplotlib.
+This software computes real time graphs for equations related to solar cells using Tkinter and matplotlib.
 
 It computes two graphs, the first one is related to the current provided by the cell and it is defined by the following equation:
 
