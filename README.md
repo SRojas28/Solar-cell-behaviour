@@ -1,5 +1,7 @@
 # **Solar-cell-behaviour**
 
+![image](https://user-images.githubusercontent.com/62435399/219082443-7769ec78-f77c-4ddc-af48-a71d3fa10317.png)
+
 ![GitHub stars](https://img.shields.io/github/stars/SRojas28/Solar-cell-behaviour?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SRojas28/Solar-cell-behaviour?label=Fork&style=social)
 
@@ -40,5 +42,3 @@ Make sure you have these dependencies latest versions installed:
 
 # Running the code
 To run the software type ``` python3 main.py ``` on the terminal.
-
-![image](https://user-images.githubusercontent.com/62435399/219082443-7769ec78-f77c-4ddc-af48-a71d3fa10317.png)
