@@ -42,3 +42,7 @@ Make sure you have these dependencies latest versions installed:
 
 # Running the code
 To run the software type ``` python3 main.py ``` on the terminal.
+
+# Authors
+- [Paola Castro](https://github.com/C-Paola)
+- [Sebastian Rojas](https://github.com/SRojas28)
