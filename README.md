@@ -1,6 +1,6 @@
 # **Solar-cell-behaviour**
 
-<img src="https://user-images.githubusercontent.com/62435399/219082443-7769ec78-f77c-4ddc-af48-a71d3fa10317.png" width="400">
+<img src="https://user-images.githubusercontent.com/62435399/219082443-7769ec78-f77c-4ddc-af48-a71d3fa10317.png" width="700">
 
 ![GitHub stars](https://img.shields.io/github/stars/SRojas28/Solar-cell-behaviour?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SRojas28/Solar-cell-behaviour?label=Fork&style=social)
